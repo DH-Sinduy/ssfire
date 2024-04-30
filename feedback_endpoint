@@ -1,0 +1,29 @@
+{
+  "user_id": "string",
+  "is_within70": true,
+  "blood_glucose": 50,
+  "food_logs": [
+    {
+      "datetime": "2024-11-11 10:00:00",
+      "food_name": "string",
+      "serving_scale": 1,
+      "calories": 300,
+      "carbohydrate": 30,
+      "proteins": 10,
+      "fat": 0,
+      "sugars": 0,
+      "fiber": 0
+    },
+    {
+      "datetime": "2024-11-11 10:00:00",
+      "food_name": "string",
+      "serving_scale": 1,
+      "calories": 100,
+      "carbohydrate": 0,
+      "proteins": 30,
+      "fat": 0,
+      "sugars": 0,
+      "fiber": 0
+    }
+  ]
+}
