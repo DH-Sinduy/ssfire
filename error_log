@@ -1,0 +1,7 @@
+{
+"detail":{
+"endpoint": "feedback",
+"data":{"user_id": "80", "is_within70": true, "blood_glucose": 100.0, "food_logs":[{"datetime": "2024-11-10 13:00:00",…},
+"error": "[22:33:59] ../src/common/json.cc:458: Expecting: \"\"\", got: \"76 \", around character position: 1\n    {L\\0\\0\\0\\0\\0\\0\\0\n    ^~~~~~~~~\nStack trace:\n  [bt] (0) /opt/rh/rh-python36/root/lib64/python3.6/site-packages/xgboost/lib/libxgboost.so(+0xcb05d) [0x7f45ca68405d]\n  [bt] (1) /opt/rh/rh-python36/root/lib64/python3.6/site-packages/xgboost/lib/libxgboost.so(+0xccd95) [0x7f45ca685d95]\n  [bt] (2) /opt/rh/rh-python36/root/lib64/python3.6/site-packages/xgboost/lib/libxgboost.so(+0xd1d02) [0x7f45ca68ad02]\n  [bt] (3) /opt/rh/rh-python36/root/lib64/python3.6/site-packages/xgboost/lib/libxgboost.so(+0xd309d) [0x7f45ca68c09d]\n  [bt] (4) /opt/rh/rh-python36/root/lib64/python3.6/site-packages/xgboost/lib/libxgboost.so(+0x1bfb3d) [0x7f45ca778b3d]\n  [bt] (5) /opt/rh/rh-python36/root/lib64/python3.6/site-packages/xgboost/lib/libxgboost.so(XGBoosterUnserializeFromBuffer+0x5c) [0x7f45ca651bcc]\n  [bt] (6) /lib64/libffi.so.6(ffi_call_unix64+0x4c) [0x7f46075b1e2c]\n  [bt] (7) /lib64/libffi.so.6(ffi_call+0x1f5) [0x7f46075b1755]\n  [bt] (8) /opt/rh/rh-python36/root/lib64/python3.6/lib-dynload/_ctypes.cpython-36m-x86_64-linux-gnu.so(_ctypes_callproc+0x2a0) [0x7f46077c44e0]\n\n"
+}
+}
