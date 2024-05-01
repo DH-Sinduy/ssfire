@@ -1,0 +1,99 @@
+INFO:     Will watch for changes in these directories: ['/root/glucofit-samsungfire/ml-server']
+INFO:     Uvicorn running on http://0.0.0.0:80 (Press CTRL+C to quit)
+INFO:     Started reloader process [2160] using statreload
+INFO:     Started server process [2165]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     192.168.111.1:58604 - "POST /predict-meal HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/anyio/streams/memory.py", line 94, in receive
+    return self.receive_nowait()
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/anyio/streams/memory.py", line 89, in receive_nowait
+    raise WouldBlock
+anyio.WouldBlock
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/starlette/middleware/base.py", line 43, in call_next
+    message = await recv_stream.receive()
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/anyio/streams/memory.py", line 114, in receive
+    raise EndOfStream
+anyio.EndOfStream
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/uvicorn/protocols/http/h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/uvicorn/middleware/proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/fastapi/applications.py", line 269, in __call__
+    await super().__call__(scope, receive, send)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/starlette/applications.py", line 124, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/starlette/middleware/errors.py", line 184, in __call__
+    raise exc
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/starlette/middleware/errors.py", line 162, in __call__
+    await self.app(scope, receive, _send)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/starlette/middleware/base.py", line 68, in __call__
+    response = await self.dispatch_func(request, call_next)
+  File "/root/glucofit-samsungfire/ml-server/main.py", line 24, in dispatch
+    response = await call_next(request)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/starlette/middleware/base.py", line 46, in call_next
+    raise app_exc
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/starlette/middleware/base.py", line 36, in coro
+    await self.app(scope, request.receive, send_stream.send)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/starlette/exceptions.py", line 93, in __call__
+    raise exc
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/starlette/exceptions.py", line 82, in __call__
+    await self.app(scope, receive, sender)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/fastapi/middleware/asyncexitstack.py", line 21, in __call__
+    raise e
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/starlette/routing.py", line 670, in __call__
+    await route.handle(scope, receive, send)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/starlette/routing.py", line 266, in handle
+    await self.app(scope, receive, send)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/starlette/routing.py", line 65, in app
+    response = await func(request)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/fastapi/routing.py", line 232, in app
+    dependant=dependant, values=values, is_coroutine=is_coroutine
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/fastapi/routing.py", line 162, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/starlette/concurrency.py", line 41, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func, *args)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/anyio/to_thread.py", line 32, in run_sync
+    func, *args, cancellable=cancellable, limiter=limiter
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/anyio/_backends/_asyncio.py", line 937, in run_sync_in_worker_thread
+    return await future
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/anyio/_backends/_asyncio.py", line 867, in run
+    result = context.run(func, *args)
+  File "/opt/rh/rh-python36/root/lib/python3.6/site-packages/contextvars/__init__.py", line 38, in run
+    return callable(*args, **kwargs)
+  File "/root/glucofit-samsungfire/ml-server/main.py", line 187, in predict_meal
+    model_spike = pickle.load(file)
+  File "/opt/rh/rh-python36/root/lib64/python3.6/site-packages/xgboost/core.py", line 1452, in __setstate__
+    _LIB.XGBoosterUnserializeFromBuffer(handle, ptr, length))
+  File "/opt/rh/rh-python36/root/lib64/python3.6/site-packages/xgboost/core.py", line 218, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [03:33:52] ../src/common/json.cc:458: Expecting: """, got: "76 ", around character position: 1
+    {L\0\0\0\0\0\0\0
+    ^~~~~~~~~
+Stack trace:
+  [bt] (0) /opt/rh/rh-python36/root/lib64/python3.6/site-packages/xgboost/lib/libxgboost.so(+0xcb05d) [0x7fb94672605d]
+  [bt] (1) /opt/rh/rh-python36/root/lib64/python3.6/site-packages/xgboost/lib/libxgboost.so(+0xccd95) [0x7fb946727d95]
+  [bt] (2) /opt/rh/rh-python36/root/lib64/python3.6/site-packages/xgboost/lib/libxgboost.so(+0xd1d02) [0x7fb94672cd02]
+  [bt] (3) /opt/rh/rh-python36/root/lib64/python3.6/site-packages/xgboost/lib/libxgboost.so(+0xd309d) [0x7fb94672e09d]
+  [bt] (4) /opt/rh/rh-python36/root/lib64/python3.6/site-packages/xgboost/lib/libxgboost.so(+0x1bfb3d) [0x7fb94681ab3d]
+  [bt] (5) /opt/rh/rh-python36/root/lib64/python3.6/site-packages/xgboost/lib/libxgboost.so(XGBoosterUnserializeFromBuffer+0x5c) [0x7fb9466f3bcc]
+  [bt] (6) /lib64/libffi.so.6(ffi_call_unix64+0x4c) [0x7fb983613e2c]
+  [bt] (7) /lib64/libffi.so.6(ffi_call+0x1f5) [0x7fb983613755]
+  [bt] (8) /opt/rh/rh-python36/root/lib64/python3.6/lib-dynload/_ctypes.cpython-36m-x86_64-linux-gnu.so(_ctypes_callproc+0x2a0) [0x7fb9838264e0]
+
+
+INFO:     Shutting down
+INFO:     Finished server process [2165]
+INFO:     Stopping reloader process [2160]
