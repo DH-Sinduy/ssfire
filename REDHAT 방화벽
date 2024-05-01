@@ -1,0 +1,11 @@
+Red Hat 7.4에서 방화벽을 해제하는 방법은 다음과 같습니다:
+
+Firewalld 서비스 중지:
+터미널에서 다음 명령을 실행하여 firewalld 서비스를 중지합니다:
+sudo systemctl stop firewalld.service
+
+Firewalld 서비스 비활성화:
+터미널에서 다음 명령을 실행하여 firewalld 서비스가 부팅 시 자동으로 시작되지 않도록 설정합니다:
+sudo systemctl disable firewalld.service
+
+이제 Red Hat 7.4에서 방화벽이 비활성화되었습니다. 만약 추가적인 도움이 필요하시면 알려주세요! 😊
