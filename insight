@@ -1,0 +1,10913 @@
+{
+  "food_logs":[
+  {
+    "food_name": "아메리카노",
+    "datetime": "2024-04-06 10:16",
+    "calories": 10,
+    "carb": 0,
+    "protein": 1,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 0
+  },
+  {
+    "food_name": "계란후라이",
+    "datetime": "2024-04-06 10:18",
+    "calories": 89,
+    "carb": 0,
+    "protein": 6,
+    "fat": 6,
+    "fiber": 0,
+    "sugar": 0
+  },
+  {
+    "food_name": "식빵",
+    "datetime": "2024-04-06 10:20",
+    "calories": 66,
+    "carb": 12,
+    "protein": 1,
+    "fat": 0,
+    "fiber": 0,
+    "sugar": 1
+  },
+  {
+    "food_name": "슬라이스 햄",
+    "datetime": "2024-04-06 10:22",
+    "calories": 91,
+    "carb": 2,
+    "protein": 9,
+    "fat": 4,
+    "fiber": 0,
+    "sugar": 0
+  },
+  {
+    "food_name": "현미밥",
+    "datetime": "2024-04-06 13:19",
+    "calories": 321,
+    "carb": 68,
+    "protein": 6,
+    "fat": 1,
+    "fiber": 1,
+    "sugar": 0
+  },
+  {
+    "food_name": "계란말이",
+    "datetime": "2024-04-06 13:20",
+    "calories": 118,
+    "carb": 10,
+    "protein": 9,
+    "fat": 7,
+    "fiber": 0,
+    "sugar": 0
+  },
+  {
+    "food_name": "생선구이",
+    "datetime": "2024-04-06 13:21",
+    "calories": 128,
+    "carb": 0,
+    "protein": 26,
+    "fat": 2,
+    "fiber": 0,
+    "sugar": 0
+  },
+  {
+    "food_name": "사과",
+    "datetime": "2024-04-06 13:22",
+    "calories": 72,
+    "carb": 19,
+    "protein": 0,
+    "fat": 0,
+    "fiber": 3,
+    "sugar": 14
+  },
+  {
+    "food_name": "현미밥",
+    "datetime": "2024-04-06 19:50",
+    "calories": 321,
+    "carb": 68,
+    "protein": 6,
+    "fat": 1,
+    "fiber": 1,
+    "sugar": 0
+  },
+  {
+    "food_name": "소불고기",
+    "datetime": "2024-04-06 19:51",
+    "calories": 163,
+    "carb": 5,
+    "protein": 18,
+    "fat": 6,
+    "fiber": 0,
+    "sugar": 2
+  },
+  {
+    "food_name": "현미밥",
+    "datetime": "2024-04-07 12:16",
+    "calories": 321,
+    "carb": 68,
+    "protein": 6,
+    "fat": 1,
+    "fiber": 1,
+    "sugar": 0
+  },
+  {
+    "food_name": "콩나물국",
+    "datetime": "2024-04-07 12:17",
+    "calories": 41,
+    "carb": 5,
+    "protein": 2,
+    "fat": 1,
+    "fiber": 2,
+    "sugar": 1
+  },
+  {
+    "food_name": "계란후라이",
+    "datetime": "2024-04-07 12:16",
+    "calories": 89,
+    "carb": 0,
+    "protein": 6,
+    "fat": 6,
+    "fiber": 0,
+    "sugar": 0
+  },
+  {
+    "food_name": "현미밥",
+    "datetime": "2024-04-07 19:47",
+    "calories": 321,
+    "carb": 68,
+    "protein": 6,
+    "fat": 1,
+    "fiber": 1,
+    "sugar": 0
+  },
+  {
+    "food_name": "잡채",
+    "datetime": "2024-04-07 19:47",
+    "calories": 225,
+    "carb": 43,
+    "protein": 2,
+    "fat": 5,
+    "fiber": 0,
+    "sugar": 8
+  },
+  {
+    "food_name": "사골곰탕",
+    "datetime": "2024-04-08 21:01",
+    "calories": 135,
+    "carb": 3,
+    "protein": 15,
+    "fat": 7,
+    "fiber": 0,
+    "sugar": 3
+  },
+  {
+    "food_name": "밥",
+    "datetime": "2024-04-08 13:01",
+    "calories": 300,
+    "carb": 65,
+    "protein": 5,
+    "fat": 1,
+    "fiber": 0,
+    "sugar": 0
+  },
+  {
+    "food_name": "멍게비빔밥",
+    "datetime": "2024-04-08 19:31",
+    "calories": 543,
+    "carb": 81,
+    "protein": 22,
+    "fat": 12,
+    "fiber": 2,
+    "sugar": 5
+  },
+  {
+    "food_name": "순대국밥",
+    "datetime": "2024-04-09 12:55",
+    "calories": 360,
+    "carb": 42,
+    "protein": 23,
+    "fat": 9,
+    "fiber": 0,
+    "sugar": 0
+  },
+  {
+    "food_name": "현미밥",
+    "datetime": "2024-04-10 12:47",
+    "calories": 321,
+    "carb": 68,
+    "protein": 6,
+    "fat": 1,
+    "fiber": 1,
+    "sugar": 0
+  },
+  {
+    "food_name": "생선구이",
+    "datetime": "2024-04-10 12:47",
+    "calories": 128,
+    "carb": 0,
+    "protein": 26,
+    "fat": 2,
+    "fiber": 0,
+    "sugar": 0
+  },    
+  {
+    "food_name": "콩나물국",
+    "datetime": "2024-04-10 12:47",
+    "calories": 41,
+    "carb": 5,
+    "protein": 2,
+    "fat": 1,
+    "fiber": 2,
+    "sugar": 1
+  },
+  {
+    "food_name": "현미밥",
+    "datetime": "2024-04-10 20:12",
+    "calories": 321,
+    "carb": 68,
+    "protein": 6,
+    "fat": 1,
+    "fiber": 1,
+    "sugar": 0
+  },{
+    "food_name": "돼지고기김치찌개",
+    "datetime": "2024-04-10 20:12",
+    "calories": 128,
+    "carb": 6,
+    "protein": 8,
+    "fat": 8,
+    "fiber": 1,
+    "sugar": 1
+  }
+],
+  "data_cgm": [
+  {
+    "datetime": "2024-04-02 21:26",
+    "blood_sugar": 156
+  },
+  {
+    "datetime": "2024-04-02 21:25",
+    "blood_sugar": 162
+  },
+  {
+    "datetime": "2024-04-02 21:26",
+    "blood_sugar": 156
+  },
+  {
+    "datetime": "2024-04-02 21:25",
+    "blood_sugar": 162
+  },
+  {
+    "datetime": "2024-04-02 21:26",
+    "blood_sugar": 156
+  },
+  {
+    "datetime": "2024-04-02 21:25",
+    "blood_sugar": 162
+  },
+  {
+    "datetime": "2024-04-02 21:26",
+    "blood_sugar": 156
+  },
+  {
+    "datetime": "2024-04-02 21:25",
+    "blood_sugar": 162
+  },
+  {
+    "datetime": "2024-04-02 21:26",
+    "blood_sugar": 156
+  },
+  {
+    "datetime": "2024-04-02 21:25",
+    "blood_sugar": 162
+  },
+  {
+    "datetime": "2024-04-02 21:26",
+    "blood_sugar": 156
+  },
+  {
+    "datetime": "2024-04-02 21:25",
+    "blood_sugar": 162
+  },
+  {
+    "datetime": "2024-04-02 21:26",
+    "blood_sugar": 156
+  },
+  {
+    "datetime": "2024-04-02 21:25",
+    "blood_sugar": 162
+  },
+  {
+    "datetime": "2024-04-02 21:26",
+    "blood_sugar": 156
+  },
+  {
+    "datetime": "2024-04-02 21:25",
+    "blood_sugar": 162
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 14:56",
+    "blood_sugar": 116
+  },
+  {
+    "datetime": "2024-04-06 14:41",
+    "blood_sugar": 128
+  },
+  {
+    "datetime": "2024-04-06 14:26",
+    "blood_sugar": 141
+  },
+  {
+    "datetime": "2024-04-06 14:11",
+    "blood_sugar": 159
+  },
+  {
+    "datetime": "2024-04-06 13:56",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-06 13:41",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 13:26",
+    "blood_sugar": 134
+  },
+  {
+    "datetime": "2024-04-06 13:11",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-06 12:56",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 12:41",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 12:26",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 12:11",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 12:00",
+    "blood_sugar": 82
+  },
+  {
+    "datetime": "2024-04-06 11:56",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 11:47",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 11:38",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 11:22",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 11:22",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-06 11:07",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 10:52",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 10:37",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-06 10:22",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 10:13",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-06 10:07",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-06 9:52",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 9:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 9:22",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 9:07",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 9:04",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 8:52",
+    "blood_sugar": 79
+  },
+  {
+    "datetime": "2024-04-06 8:36",
+    "blood_sugar": 70
+  },
+  {
+    "datetime": "2024-04-06 8:21",
+    "blood_sugar": 74
+  },
+  {
+    "datetime": "2024-04-06 8:06",
+    "blood_sugar": 79
+  },
+  {
+    "datetime": "2024-04-06 7:51",
+    "blood_sugar": 81
+  },
+  {
+    "datetime": "2024-04-06 7:36",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 7:21",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-06 7:06",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-06 6:51",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-06 6:36",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-06 6:21",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-06 6:06",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-06 5:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 5:36",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 5:21",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 5:06",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 4:51",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-06 4:43",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 4:36",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-06 4:19",
+    "blood_sugar": 82
+  },
+  {
+    "datetime": "2024-04-06 4:04",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 3:49",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-06 3:34",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 3:19",
+    "blood_sugar": 85
+  },
+  {
+    "datetime": "2024-04-06 3:04",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 2:49",
+    "blood_sugar": 82
+  },
+  {
+    "datetime": "2024-04-06 2:34",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 2:19",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-06 2:04",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-06 1:49",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-06 1:34",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 1:19",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-06 1:04",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-06 0:49",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 0:34",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-06 0:19",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 0:04",
+    "blood_sugar": 108
+  },
+  {
+    "datetime": "2024-04-06 0:00",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-06 0:00",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-05 23:34",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-05 23:19",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-05 23:04",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:49",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-05 22:45",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 14:50",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 14:35",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 14:22",
+    "blood_sugar": 121
+  },
+  {
+    "datetime": "2024-04-07 14:20",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 14:04",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 13:49",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-07 13:34",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 13:19",
+    "blood_sugar": 144
+  },
+  {
+    "datetime": "2024-04-07 13:04",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-07 12:49",
+    "blood_sugar": 158
+  },
+  {
+    "datetime": "2024-04-07 12:34",
+    "blood_sugar": 143
+  },
+  {
+    "datetime": "2024-04-07 12:19",
+    "blood_sugar": 119
+  },
+  {
+    "datetime": "2024-04-07 12:06",
+    "blood_sugar": 108
+  },
+  {
+    "datetime": "2024-04-07 12:04",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-07 11:48",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 11:33",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 11:18",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 11:03",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 10:48",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 10:33",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 10:18",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 10:03",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-07 9:55",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 9:48",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-07 9:32",
+    "blood_sugar": 108
+  },
+  {
+    "datetime": "2024-04-07 9:17",
+    "blood_sugar": 116
+  },
+  {
+    "datetime": "2024-04-07 9:07",
+    "blood_sugar": 116
+  },
+  {
+    "datetime": "2024-04-07 9:02",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 8:47",
+    "blood_sugar": 138
+  },
+  {
+    "datetime": "2024-04-07 8:32",
+    "blood_sugar": 144
+  },
+  {
+    "datetime": "2024-04-07 8:17",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 8:03",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 8:02",
+    "blood_sugar": 119
+  },
+  {
+    "datetime": "2024-04-07 7:46",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 7:31",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-07 7:16",
+    "blood_sugar": 116
+  },
+  {
+    "datetime": "2024-04-07 7:01",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 6:46",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 6:31",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-07 6:16",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 6:08",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-07 6:01",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-07 5:45",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 5:30",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-07 5:15",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-07 5:00",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 4:45",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 4:30",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 4:15",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 4:00",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 3:45",
+    "blood_sugar": 106
+  },
+  {
+    "datetime": "2024-04-07 3:30",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-07 3:15",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 3:00",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-07 2:45",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-07 2:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 2:15",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-07 2:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-07 1:45",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-07 1:30",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-07 1:15",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-07 1:00",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 0:45",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-07 0:30",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 0:15",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-07 0:00",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-07 0:00",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-07 0:00",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-06 23:45",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-06 23:30",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 23:15",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-06 23:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-06 22:45",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 22:30",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:15",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 22:12",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-06 21:57",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-06 21:42",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:27",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-06 21:12",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 21:01",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-06 20:57",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-06 20:42",
+    "blood_sugar": 149
+  },
+  {
+    "datetime": "2024-04-06 20:27",
+    "blood_sugar": 167
+  },
+  {
+    "datetime": "2024-04-06 20:12",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-06 19:57",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-06 19:50",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-06 19:42",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 19:26",
+    "blood_sugar": 80
+  },
+  {
+    "datetime": "2024-04-06 19:11",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-06 18:56",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-06 18:41",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-06 18:26",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 18:11",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-06 17:56",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:41",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-06 17:26",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-06 17:11",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-06 16:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-06 16:41",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-06 16:26",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-06 16:11",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-06 15:56",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-06 15:41",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-06 15:26",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-06 15:11",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 14:47",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 14:32",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-08 14:17",
+    "blood_sugar": 116
+  },
+  {
+    "datetime": "2024-04-08 14:02",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-08 13:47",
+    "blood_sugar": 158
+  },
+  {
+    "datetime": "2024-04-08 13:32",
+    "blood_sugar": 177
+  },
+  {
+    "datetime": "2024-04-08 13:17",
+    "blood_sugar": 193
+  },
+  {
+    "datetime": "2024-04-08 13:02",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-08 12:47",
+    "blood_sugar": 144
+  },
+  {
+    "datetime": "2024-04-08 12:32",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-08 12:17",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-08 12:05",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 11:44",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-08 11:29",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 11:14",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-08 10:59",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 10:44",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-08 10:29",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-08 10:14",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-08 9:59",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-08 9:44",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-08 9:29",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 9:25",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-08 9:14",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-08 8:58",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-08 8:43",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-08 8:28",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-08 8:13",
+    "blood_sugar": 134
+  },
+  {
+    "datetime": "2024-04-08 8:02",
+    "blood_sugar": 134
+  },
+  {
+    "datetime": "2024-04-08 7:58",
+    "blood_sugar": 136
+  },
+  {
+    "datetime": "2024-04-08 7:42",
+    "blood_sugar": 136
+  },
+  {
+    "datetime": "2024-04-08 7:27",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-08 7:12",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-08 6:57",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-08 6:42",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 6:27",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-08 6:12",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-08 6:12",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-08 5:56",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 5:41",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-08 5:26",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 5:11",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-08 4:56",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-08 4:41",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 4:26",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-08 4:11",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-08 3:56",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-08 3:41",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-08 3:26",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 3:11",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-08 2:56",
+    "blood_sugar": 106
+  },
+  {
+    "datetime": "2024-04-08 2:41",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-08 2:26",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-08 2:11",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 1:56",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-08 1:41",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-08 1:26",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-08 1:11",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-08 0:56",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-08 0:41",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 0:26",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-08 0:11",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-08 0:00",
+    "blood_sugar": 108
+  },
+  {
+    "datetime": "2024-04-08 0:00",
+    "blood_sugar": 108
+  },
+  {
+    "datetime": "2024-04-07 23:56",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:41",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 23:24",
+    "blood_sugar": 114
+  },
+  {
+    "datetime": "2024-04-07 23:09",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-07 22:54",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 22:39",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-07 22:28",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-07 22:24",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-07 22:07",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-07 21:52",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-07 21:37",
+    "blood_sugar": 137
+  },
+  {
+    "datetime": "2024-04-07 21:22",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-07 21:07",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-07 20:52",
+    "blood_sugar": 172
+  },
+  {
+    "datetime": "2024-04-07 20:37",
+    "blood_sugar": 184
+  },
+  {
+    "datetime": "2024-04-07 20:22",
+    "blood_sugar": 186
+  },
+  {
+    "datetime": "2024-04-07 20:16",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:15",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-07 20:07",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-07 19:51",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-07 19:36",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-07 19:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-07 19:06",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:51",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:36",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-07 18:21",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-07 18:06",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-07 17:51",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-07 17:36",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:21",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 17:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-07 16:59",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-07 16:51",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-07 16:35",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 16:20",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 16:05",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-07 15:50",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-07 15:35",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-07 15:20",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-07 15:05",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-09 23:48",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-09 22:16",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-09 21:59",
+    "blood_sugar": 153
+  },
+  {
+    "datetime": "2024-04-09 21:44",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-09 21:29",
+    "blood_sugar": 183
+  },
+  {
+    "datetime": "2024-04-09 21:14",
+    "blood_sugar": 168
+  },
+  {
+    "datetime": "2024-04-09 21:00",
+    "blood_sugar": 139
+  },
+  {
+    "datetime": "2024-04-09 20:59",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-09 20:43",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-09 20:30",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-09 20:28",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 20:13",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-09 19:58",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-09 19:43",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 19:28",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-09 19:13",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 18:58",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-09 18:43",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-09 18:28",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-09 18:13",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-09 17:58",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 17:43",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-09 17:28",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 17:13",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-09 16:58",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-09 16:43",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-09 16:28",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-09 16:13",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-09 15:58",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-09 15:43",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 15:28",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-09 15:13",
+    "blood_sugar": 122
+  },
+  {
+    "datetime": "2024-04-09 14:58",
+    "blood_sugar": 139
+  },
+  {
+    "datetime": "2024-04-09 14:50",
+    "blood_sugar": 142
+  },
+  {
+    "datetime": "2024-04-09 14:43",
+    "blood_sugar": 154
+  },
+  {
+    "datetime": "2024-04-09 14:25",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-09 14:10",
+    "blood_sugar": 173
+  },
+  {
+    "datetime": "2024-04-09 13:55",
+    "blood_sugar": 170
+  },
+  {
+    "datetime": "2024-04-09 13:40",
+    "blood_sugar": 157
+  },
+  {
+    "datetime": "2024-04-09 13:25",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-09 13:10",
+    "blood_sugar": 119
+  },
+  {
+    "datetime": "2024-04-09 12:55",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-09 12:40",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-09 12:25",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-09 12:10",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-09 12:01",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-09 11:55",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-09 11:39",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-09 11:24",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-09 11:09",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-09 10:54",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-09 10:39",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-09 10:24",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-09 10:09",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 9:54",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-09 9:39",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-09 9:24",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-09 9:09",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-09 8:54",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-09 8:39",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-09 8:24",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-09 8:09",
+    "blood_sugar": 156
+  },
+  {
+    "datetime": "2024-04-09 8:00",
+    "blood_sugar": 141
+  },
+  {
+    "datetime": "2024-04-09 7:54",
+    "blood_sugar": 168
+  },
+  {
+    "datetime": "2024-04-09 7:38",
+    "blood_sugar": 165
+  },
+  {
+    "datetime": "2024-04-09 7:23",
+    "blood_sugar": 134
+  },
+  {
+    "datetime": "2024-04-09 7:17",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-09 7:08",
+    "blood_sugar": 108
+  },
+  {
+    "datetime": "2024-04-09 6:52",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-09 6:37",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-09 6:22",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-09 6:07",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-09 5:52",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-09 5:37",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 5:22",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-09 5:07",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 4:52",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 4:37",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-09 4:22",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-09 4:07",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-09 3:52",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-09 3:37",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-09 3:22",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-09 3:07",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-09 2:52",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 2:37",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 2:22",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-09 2:07",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-09 1:52",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-09 1:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-09 1:22",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-09 1:07",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-09 0:52",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-09 0:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-09 0:22",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-09 0:07",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-09 0:00",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-09 0:00",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:52",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 23:37",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 23:22",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 22:49",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 22:33",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 22:18",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-08 22:03",
+    "blood_sugar": 129
+  },
+  {
+    "datetime": "2024-04-08 21:48",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-08 21:33",
+    "blood_sugar": 135
+  },
+  {
+    "datetime": "2024-04-08 21:18",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 21:03",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-08 20:48",
+    "blood_sugar": 198
+  },
+  {
+    "datetime": "2024-04-08 20:33",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-08 20:18",
+    "blood_sugar": 190
+  },
+  {
+    "datetime": "2024-04-08 20:05",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-08 20:03",
+    "blood_sugar": 152
+  },
+  {
+    "datetime": "2024-04-08 19:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 19:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 19:17",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-08 19:02",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:47",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-08 18:32",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-08 18:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 18:02",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-08 17:47",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:32",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-08 17:17",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 17:02",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:47",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:32",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-08 16:17",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-08 16:02",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-08 15:47",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-08 15:32",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-08 15:17",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-08 15:02",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-12 7:00",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-12 6:39",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-12 6:24",
+    "blood_sugar": 88
+  },
+  {
+    "datetime": "2024-04-12 6:09",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-12 5:54",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-12 5:39",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-12 5:24",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-12 5:09",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-12 4:54",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-12 4:39",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-12 4:24",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-12 4:09",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-12 3:54",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-12 3:39",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-12 3:24",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-12 3:09",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-12 2:54",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-12 2:39",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-12 2:24",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-12 2:09",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-12 1:54",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-12 1:39",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-12 1:24",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-12 1:09",
+    "blood_sugar": 84
+  },
+  {
+    "datetime": "2024-04-12 0:54",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-12 0:39",
+    "blood_sugar": 89
+  },
+  {
+    "datetime": "2024-04-12 0:24",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-12 0:09",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-12 0:00",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-12 0:00",
+    "blood_sugar": 86
+  },
+  {
+    "datetime": "2024-04-11 23:54",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-11 23:39",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-11 23:24",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-11 23:09",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-11 22:41",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-11 22:20",
+    "blood_sugar": 168
+  },
+  {
+    "datetime": "2024-04-11 22:05",
+    "blood_sugar": 173
+  },
+  {
+    "datetime": "2024-04-11 21:50",
+    "blood_sugar": 180
+  },
+  {
+    "datetime": "2024-04-11 21:35",
+    "blood_sugar": 194
+  },
+  {
+    "datetime": "2024-04-11 21:24",
+    "blood_sugar": 204
+  },
+  {
+    "datetime": "2024-04-11 21:20",
+    "blood_sugar": 204
+  },
+  {
+    "datetime": "2024-04-11 21:14",
+    "blood_sugar": 208
+  },
+  {
+    "datetime": "2024-04-11 21:09",
+    "blood_sugar": 208
+  },
+  {
+    "datetime": "2024-04-11 21:04",
+    "blood_sugar": 196
+  },
+  {
+    "datetime": "2024-04-11 21:04",
+    "blood_sugar": 192
+  },
+  {
+    "datetime": "2024-04-11 20:59",
+    "blood_sugar": 185
+  },
+  {
+    "datetime": "2024-04-11 20:49",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-11 20:35",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-11 20:35",
+    "blood_sugar": 116
+  },
+  {
+    "datetime": "2024-04-11 20:19",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-11 20:04",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-11 19:49",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-11 19:34",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-11 19:19",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-11 19:04",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-11 18:49",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-11 18:34",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-11 18:19",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-11 18:04",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-11 17:49",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-11 17:34",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-11 17:19",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-11 17:04",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-11 16:49",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-11 16:34",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-11 16:19",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-11 16:13",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-11 16:04",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-11 15:47",
+    "blood_sugar": 106
+  },
+  {
+    "datetime": "2024-04-11 15:32",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-11 15:17",
+    "blood_sugar": 124
+  },
+  {
+    "datetime": "2024-04-11 15:02",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-11 14:47",
+    "blood_sugar": 138
+  },
+  {
+    "datetime": "2024-04-11 14:32",
+    "blood_sugar": 151
+  },
+  {
+    "datetime": "2024-04-11 14:17",
+    "blood_sugar": 168
+  },
+  {
+    "datetime": "2024-04-11 14:15",
+    "blood_sugar": 181
+  },
+  {
+    "datetime": "2024-04-11 14:02",
+    "blood_sugar": 180
+  },
+  {
+    "datetime": "2024-04-11 13:46",
+    "blood_sugar": 177
+  },
+  {
+    "datetime": "2024-04-11 13:31",
+    "blood_sugar": 158
+  },
+  {
+    "datetime": "2024-04-11 13:16",
+    "blood_sugar": 125
+  },
+  {
+    "datetime": "2024-04-11 13:01",
+    "blood_sugar": 106
+  },
+  {
+    "datetime": "2024-04-11 12:46",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-11 12:31",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-11 12:16",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-11 12:05",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-11 12:01",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-11 11:46",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-11 11:31",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-11 11:16",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-11 11:01",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-11 10:46",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-11 10:31",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-11 10:16",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-11 10:01",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-11 9:46",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-11 9:31",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-11 9:16",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-11 9:01",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-11 8:46",
+    "blood_sugar": 127
+  },
+  {
+    "datetime": "2024-04-11 8:31",
+    "blood_sugar": 132
+  },
+  {
+    "datetime": "2024-04-11 8:16",
+    "blood_sugar": 136
+  },
+  {
+    "datetime": "2024-04-11 8:01",
+    "blood_sugar": 150
+  },
+  {
+    "datetime": "2024-04-11 7:46",
+    "blood_sugar": 155
+  },
+  {
+    "datetime": "2024-04-11 7:31",
+    "blood_sugar": 140
+  },
+  {
+    "datetime": "2024-04-11 7:16",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-11 7:01",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-11 6:46",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-11 6:31",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-11 6:24",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-11 6:16",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-11 5:58",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-11 5:43",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-11 5:28",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-11 5:13",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-11 4:58",
+    "blood_sugar": 106
+  },
+  {
+    "datetime": "2024-04-11 4:43",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-11 4:28",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-11 4:13",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-11 3:58",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-11 3:43",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-11 3:28",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-11 3:13",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-11 2:58",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-11 2:43",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-11 2:28",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-11 2:13",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-11 1:58",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-11 1:43",
+    "blood_sugar": 106
+  },
+  {
+    "datetime": "2024-04-11 1:28",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-11 1:13",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-11 0:58",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-11 0:56",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-11 0:40",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-11 0:25",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-11 0:10",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-11 0:00",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-11 0:00",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-10 23:55",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-10 23:40",
+    "blood_sugar": 109
+  },
+  {
+    "datetime": "2024-04-10 23:25",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-10 23:10",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-10 22:55",
+    "blood_sugar": 117
+  },
+  {
+    "datetime": "2024-04-10 22:40",
+    "blood_sugar": 119
+  },
+  {
+    "datetime": "2024-04-10 22:25",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-10 22:23",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-10 22:10",
+    "blood_sugar": 118
+  },
+  {
+    "datetime": "2024-04-10 21:55",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-10 21:40",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-10 21:25",
+    "blood_sugar": 121
+  },
+  {
+    "datetime": "2024-04-10 21:10",
+    "blood_sugar": 134
+  },
+  {
+    "datetime": "2024-04-10 20:55",
+    "blood_sugar": 151
+  },
+  {
+    "datetime": "2024-04-10 20:40",
+    "blood_sugar": 151
+  },
+  {
+    "datetime": "2024-04-10 20:25",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-10 20:10",
+    "blood_sugar": 104
+  },
+  {
+    "datetime": "2024-04-10 19:55",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-10 19:40",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-10 19:25",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-10 19:10",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-10 18:55",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-10 18:40",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-10 18:25",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-10 18:10",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-10 17:55",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-10 17:40",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-10 17:25",
+    "blood_sugar": 122
+  },
+  {
+    "datetime": "2024-04-10 17:10",
+    "blood_sugar": 127
+  },
+  {
+    "datetime": "2024-04-10 16:55",
+    "blood_sugar": 133
+  },
+  {
+    "datetime": "2024-04-10 16:40",
+    "blood_sugar": 130
+  },
+  {
+    "datetime": "2024-04-10 16:25",
+    "blood_sugar": 123
+  },
+  {
+    "datetime": "2024-04-10 16:10",
+    "blood_sugar": 119
+  },
+  {
+    "datetime": "2024-04-10 15:55",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-10 15:40",
+    "blood_sugar": 122
+  },
+  {
+    "datetime": "2024-04-10 15:25",
+    "blood_sugar": 122
+  },
+  {
+    "datetime": "2024-04-10 15:10",
+    "blood_sugar": 122
+  },
+  {
+    "datetime": "2024-04-10 14:55",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-10 14:54",
+    "blood_sugar": 121
+  },
+  {
+    "datetime": "2024-04-10 14:36",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-10 14:21",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-10 14:06",
+    "blood_sugar": 120
+  },
+  {
+    "datetime": "2024-04-10 13:51",
+    "blood_sugar": 126
+  },
+  {
+    "datetime": "2024-04-10 13:36",
+    "blood_sugar": 134
+  },
+  {
+    "datetime": "2024-04-10 13:21",
+    "blood_sugar": 144
+  },
+  {
+    "datetime": "2024-04-10 13:19",
+    "blood_sugar": 151
+  },
+  {
+    "datetime": "2024-04-10 13:06",
+    "blood_sugar": 158
+  },
+  {
+    "datetime": "2024-04-10 12:51",
+    "blood_sugar": 162
+  },
+  {
+    "datetime": "2024-04-10 12:36",
+    "blood_sugar": 136
+  },
+  {
+    "datetime": "2024-04-10 12:21",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-10 12:06",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-10 11:56",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-10 11:51",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-10 11:34",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-10 11:19",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-10 11:04",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-10 10:49",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-10 10:34",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-10 10:19",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-10 10:04",
+    "blood_sugar": 110
+  },
+  {
+    "datetime": "2024-04-10 9:59",
+    "blood_sugar": 108
+  },
+  {
+    "datetime": "2024-04-10 9:49",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-10 9:34",
+    "blood_sugar": 121
+  },
+  {
+    "datetime": "2024-04-10 9:19",
+    "blood_sugar": 122
+  },
+  {
+    "datetime": "2024-04-10 9:04",
+    "blood_sugar": 121
+  },
+  {
+    "datetime": "2024-04-10 8:49",
+    "blood_sugar": 119
+  },
+  {
+    "datetime": "2024-04-10 8:34",
+    "blood_sugar": 106
+  },
+  {
+    "datetime": "2024-04-10 8:19",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-10 8:04",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-10 8:00",
+    "blood_sugar": 100
+  },
+  {
+    "datetime": "2024-04-10 7:49",
+    "blood_sugar": 103
+  },
+  {
+    "datetime": "2024-04-10 7:33",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-10 7:33",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-10 7:18",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-10 7:03",
+    "blood_sugar": 90
+  },
+  {
+    "datetime": "2024-04-10 6:48",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-10 6:33",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-10 6:18",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-10 6:03",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-10 5:48",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-10 5:33",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-10 5:18",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-10 5:03",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-10 4:48",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-10 4:33",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-10 4:18",
+    "blood_sugar": 87
+  },
+  {
+    "datetime": "2024-04-10 4:03",
+    "blood_sugar": 83
+  },
+  {
+    "datetime": "2024-04-10 3:48",
+    "blood_sugar": 91
+  },
+  {
+    "datetime": "2024-04-10 3:33",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-10 3:18",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-10 3:03",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-10 2:48",
+    "blood_sugar": 102
+  },
+  {
+    "datetime": "2024-04-10 2:33",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-10 2:18",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-10 2:03",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-10 1:48",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-10 1:33",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-10 1:18",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-10 1:03",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-10 0:48",
+    "blood_sugar": 105
+  },
+  {
+    "datetime": "2024-04-10 0:33",
+    "blood_sugar": 111
+  },
+  {
+    "datetime": "2024-04-10 0:18",
+    "blood_sugar": 115
+  },
+  {
+    "datetime": "2024-04-10 0:03",
+    "blood_sugar": 112
+  },
+  {
+    "datetime": "2024-04-10 0:00",
+    "blood_sugar": 108
+  },
+  {
+    "datetime": "2024-04-10 0:00",
+    "blood_sugar": 108
+  },
+  {
+    "datetime": "2024-04-09 23:48",
+    "blood_sugar": 99
+  },
+  {
+    "datetime": "2024-04-09 22:16",
+    "blood_sugar": 113
+  },
+  {
+    "datetime": "2024-04-09 21:59",
+    "blood_sugar": 153
+  },
+  {
+    "datetime": "2024-04-09 21:44",
+    "blood_sugar": 174
+  },
+  {
+    "datetime": "2024-04-09 21:29",
+    "blood_sugar": 183
+  },
+  {
+    "datetime": "2024-04-09 21:14",
+    "blood_sugar": 168
+  },
+  {
+    "datetime": "2024-04-09 21:00",
+    "blood_sugar": 139
+  },
+  {
+    "datetime": "2024-04-09 20:59",
+    "blood_sugar": 131
+  },
+  {
+    "datetime": "2024-04-09 20:43",
+    "blood_sugar": 101
+  },
+  {
+    "datetime": "2024-04-09 20:30",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-09 20:28",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 20:13",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-09 19:58",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-09 19:43",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 19:28",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-09 19:13",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 18:58",
+    "blood_sugar": 94
+  },
+  {
+    "datetime": "2024-04-09 18:43",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-09 18:28",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-09 18:13",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-09 17:58",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 17:43",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-09 17:28",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 17:13",
+    "blood_sugar": 98
+  },
+  {
+    "datetime": "2024-04-09 16:58",
+    "blood_sugar": 97
+  },
+  {
+    "datetime": "2024-04-09 16:43",
+    "blood_sugar": 95
+  },
+  {
+    "datetime": "2024-04-09 16:28",
+    "blood_sugar": 93
+  },
+  {
+    "datetime": "2024-04-09 16:13",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-09 15:58",
+    "blood_sugar": 92
+  },
+  {
+    "datetime": "2024-04-09 15:43",
+    "blood_sugar": 96
+  },
+  {
+    "datetime": "2024-04-09 15:28",
+    "blood_sugar": 107
+  },
+  {
+    "datetime": "2024-04-09 15:13",
+    "blood_sugar": 122
+  }
+]
+}
