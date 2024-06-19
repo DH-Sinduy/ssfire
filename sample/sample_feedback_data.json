@@ -1,0 +1,16 @@
+{
+  "user_id": "90",
+  "is_within70": true,
+  "blood_glucose": 100,
+  "food_logs": [
+    {
+        "food_name": "콜라",
+        "datetime": "2023-12-02 11:00:00",
+        "calories": 100,
+        "carbohydrate": 40,
+        "proteins": 10,
+        "fat": 10,
+        "sugars": 20
+    }
+  ]
+}

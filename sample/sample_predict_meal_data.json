@@ -1,0 +1,16 @@
+{
+  "user_id": "general",
+  "date": "2024-11-11",
+  "food_logs": [
+    {
+      "datetime": "2024-11-12 10:00:00",
+      "food_name": "콜라",
+      "calories": 150,
+      "carbohydrate": 10,
+      "proteins": 20,
+      "fat": 0,
+      "sugars": 0,
+      "fiber": 0
+    }
+  ]
+}
